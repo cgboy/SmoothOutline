@@ -1,0 +1,9 @@
+
+Library/
+Temp/
+Logs/
+obj/
+# JetBrain cache directory
+.idea/
+*.csproj
+Assets/AmplifyShaderEditor/
